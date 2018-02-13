@@ -1,0 +1,19 @@
+# protest-dictionary
+This is a list of protest event related keywords constructed for experiments
+
+keywords = ["protest", "muslim", "islam", "outcry", "asylum", "organisation", "threat", "union", "centrelink",
+                "opposition", "parade", "council", "federal", "strike", "harass", "refugee", "riot", "community",
+                "reclaim", "poster", "demonstration", "petition", "funding", "barrier", "march", "crowd", "celebration",
+                "action", "barricade", "placard", "gather", "resident", "patriot", "bigot", "racism", "national",
+                "decision", "movement", "mentality", "racist", "agency", "mosque", "highlight", "halaal", "turmoil",
+                "activist", "disturbance", "victory", "equality", "blockade", "anger", "ideal", "unite", "extremist",
+                "anzac", "rally", "culture", "unrest", "terror", "terrorist", "prevent", "cpsu", "anger", "concern",
+                "stoppage", "park", "value", "claim", "immigrant", "opponent", "standoff", "spray", "sign", "urban",
+                "pressure", "destroy", "side", "unrest", "stoking"
+				freeport', 'copper', "Mimika", "Kampung",
+                       "PT", "Timika", "copper mine", "UMM", 
+                       "parliament", "youth", "movement", "demonstrate", "Ignasius", "Jonan", "GMNI", "Muhammadiyah", "unrest"
+				
+				
+				
+				]
