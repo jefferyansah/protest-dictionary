@@ -1,0 +1,26 @@
+We use four different and geographically diverse real world Twitter
+data sets for our experiments. Table 2. shows the information on
+our datasets.
+(I). Freeport Dataset (FP): The Freeport dataset contains tweets
+published from Jan 2017-April 2017 on the coal protests in Indonesia. During this period, there were series of protest actions towards
+Indonesian mining giants with protesters calling for the mines to
+be shut down.
+(II). US-Ghana Military Base (USGM): The dataset captures series of population level events that sparked nationwide protest
+against the establishment of a US Military base in Ghana. The data
+covers tweets published from March 19 - March 30 2018.
+(II). US Moving Embassy to Jerusalem (USJM): This dataset
+covers from Jun 2018- July 2018, on the announcement of the movement of the US embassy from Tel-Aviv to Jerusalem. This decision
+sparked global outrage leading to a series of violent events in the
+Middle-east and other parts of the world.
+(II). Live Exports in Australia: This dataset covers a one month
+period of series of organized protest and aftermath events to stop
+the exportation of live animals in Australia. This datasets spans
+from June 3rd- June 30th 2018.
+
+With the exception of the FP-Datasets that was provided by
+the D2DCRC, all other datasets used in the work as well as the
+user follower network was crawled through the Twitter API by
+the authors. We implemented and conducted all experiments using
+Python 3.2 and 3.6 on a Windows machine with 8GB Memory and
+a 64-bit Linux virtual machine with 6GB memory all running on
+an Intel(R) Core(TM) i5-4310m CPU 2.70Ghz processor.
